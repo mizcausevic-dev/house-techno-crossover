@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+ht01,Steel Floor,pack-local equal-tempered pitch collection,B,128,4/4,480,32,61440,midi/ht01-steel-floor/ht01-steel-floor-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ht02,Two Rooms,pack-local equal-tempered pitch collection,D,128,4/4,480,32,61440,midi/ht02-two-rooms/ht02-two-rooms-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ht03,Signal Pulse,pack-local equal-tempered pitch collection,F,128,4/4,480,32,61440,midi/ht03-signal-pulse/ht03-signal-pulse-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ht04,Night Exit,pack-local equal-tempered pitch collection,C,128,4/4,480,32,61440,midi/ht04-night-exit/ht04-night-exit-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
