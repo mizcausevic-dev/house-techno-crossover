@@ -7,6 +7,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 794,
+      "sha256": "f53e8dc8a823fe6a50f3eb355bd687802262c26ea683594431ed1e7339bbc9e8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3883,
+      "sha256": "82ac075078f654247a09d4fa8c3705e213b44b13b4ce4e0d9e24045852a6e3fb"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -197,6 +207,36 @@
       "sha256": "49d66848de0a6d40cbd97f844b8fd002a9b892248c99066ac0d8f8cdf19e616c"
     },
     {
+      "path": "film/motion-artwork.jpg",
+      "bytes": 255976,
+      "sha256": "e234686ca25f26618701f2f1558927a17b36f366eb0ada773dd388f259922e2a"
+    },
+    {
+      "path": "film/motion-manifest.json",
+      "bytes": 1208,
+      "sha256": "2bc775349699a52f8bd6ce0b25141f7288ede9500faf47cebc18ffedd0bafd6b"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2863,
+      "sha256": "e68b9b426bbf062ff4ec0d658b03b9405fd9f251db9918c96e89521c20a3c728"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 33257,
+      "sha256": "1dad71991020ee1e44eb8ddb25d5cc6879a56847c08bc43f741cae5d10d3e9dc"
+    },
+    {
+      "path": "film/motion-preview.mp4",
+      "bytes": 1007319,
+      "sha256": "82a119cdc9499d0c1cdd59decca23dc0fefd0c26193d9fa7b601e006f97952f0"
+    },
+    {
+      "path": "film/motion-preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
       "path": "film/poster.jpg",
       "bytes": 231574,
       "sha256": "bc24d857b63fede0d7aa32050225715bbb541d8b17579e010a78d077460a4155"
@@ -218,8 +258,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9523,
-      "sha256": "6528b6f64a31c0d6c0c238c8813e9a123df2cba94b7e7cf33a33de0a8bf0516c"
+      "bytes": 9538,
+      "sha256": "d20cbb3f7dfd55210735b51ecc3eb21b950ecfe483814f68e27b6aff26f66728"
     },
     {
       "path": "midi/ht01-steel-floor/chord_pulse.mid",
@@ -372,11 +412,6 @@
       "sha256": "7bb494ff2565e19df2b463be5f6800993958e458deb3b3d39a4f64c9a115c950"
     },
     {
-      "path": "README.md",
-      "bytes": 3883,
-      "sha256": "82ac075078f654247a09d4fa8c3705e213b44b13b4ce4e0d9e24045852a6e3fb"
-    },
-    {
       "path": "social/instagram/caption.txt",
       "bytes": 225,
       "sha256": "03ef53552140674894cb44b8d0da04901e0c4c913543ed1b82a3e257e56e6970"
@@ -420,6 +455,11 @@
       "path": "tools/produce_clips.py",
       "bytes": 6256,
       "sha256": "ed4a6a81ce5e8eec7d297487103f67a69e7c9a7db0455bb0d0046d783fc7f70e"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
     },
     {
       "path": "tools/validate_release.py",

@@ -1,0 +1,26 @@
+{
+  "title": "House / Techno Crossover",
+  "study": "ht01",
+  "bpm": 128,
+  "source_audio": "preview/house-techno-crossover-simple-synth-preview.mp3",
+  "source_audio_sha256": "8727fcdec3e1afbc60201cfb4d45db6686acbdcde2329708d9383c63cf0cf744",
+  "source_midi": "midi/ht01-steel-floor/ht01-steel-floor-combined.mid",
+  "source_midi_sha256": "c27d6b091156057a2450da94796a7794f7bcbaa7a797b05cac53e4eb9b9d8c63",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "12d73a64554f5a35ae8de046636d8faf65e71a7b932c838e6e3e779c6e6d163b",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "e234686ca25f26618701f2f1558927a17b36f366eb0ada773dd388f259922e2a",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "82a119cdc9499d0c1cdd59decca23dc0fefd0c26193d9fa7b601e006f97952f0",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
