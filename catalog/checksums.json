@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 794,
-      "sha256": "f53e8dc8a823fe6a50f3eb355bd687802262c26ea683594431ed1e7339bbc9e8"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3889,
-      "sha256": "8edbf8bc8ba3521a7b08dee90da2bb9c8ab19dec6cd51f2505463df266c50e18"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -59,7 +49,7 @@
     {
       "path": "catalog/clip-index.csv",
       "bytes": 1916,
-      "sha256": "bb63a275e2506d3fba59eead2beceb4292102196f7cb8af8b14ed93678bb567f"
+      "sha256": "8225e4c8d386bf45ec259480ad0c35c067ec232667f677f5cec8c6db9f5aac5c"
     },
     {
       "path": "catalog/drum-map.csv",
@@ -118,83 +108,83 @@
     },
     {
       "path": "clips/ht01-bass-hook-01.mid",
-      "bytes": 222,
-      "sha256": "9ea957a29ac7395f606c5938c8678d51495fcb37be8cd5506ae9283eaafc3d12"
+      "bytes": 199,
+      "sha256": "b74dd7d80461d8edf0748eedcb76dd368d8082211cca5ec0ece165ac2c79cae2"
     },
     {
       "path": "clips/ht01-bass-hook-02.mid",
-      "bytes": 222,
-      "sha256": "379bc20a20c8040f22401482a79d20ea8ac726d2388ee991aef68e2811fbe5fb"
+      "bytes": 200,
+      "sha256": "317e311a7ef7643b25a8a75b2a869e0157bb2541398cf0c743d9c5ddc5371698"
     },
     {
       "path": "clips/ht01-bass-hook-03.mid",
-      "bytes": 222,
-      "sha256": "b0d05f1e5441abf95c36bdeea1e88f2ceff43dabfab3b727ef37640aa72848ad"
+      "bytes": 199,
+      "sha256": "4837b79d9f4a9ddf435f3b38d83f74539655d13c63f7e2bbfc3972fa95141d52"
     },
     {
       "path": "clips/ht01-bass-hook-04.mid",
-      "bytes": 222,
-      "sha256": "0fb70f626fca15a75286cffbfab6e4f680247109bdaeb1ceb9735913a4171b0c"
+      "bytes": 199,
+      "sha256": "b369c99b33df1e2c1b6f08b3379196c4e1f815cc1a7b2d88295262cf15fc8149"
     },
     {
       "path": "clips/ht02-bass-hook-01.mid",
-      "bytes": 212,
-      "sha256": "a952d504f2bee03bc33058a83cf9ab0a645204a35769060455fb665b174a4387"
+      "bytes": 199,
+      "sha256": "66becd3c1277d20da221416ca390ab189025176f4e976ab377dab3d4275ccd67"
     },
     {
       "path": "clips/ht02-bass-hook-02.mid",
-      "bytes": 212,
-      "sha256": "9be8bf75ea37861e318ea352ba91c5bf4ad4bb091809256f15e2b7c033c4ff29"
+      "bytes": 200,
+      "sha256": "3d29a6db9cb2efd4054051040878537089428f8dd8f745ddc934a1514856471c"
     },
     {
       "path": "clips/ht02-bass-hook-03.mid",
-      "bytes": 212,
-      "sha256": "57ab8c9fd319b17bbb2c6b7b4a817592401d0855f279aeb2e1816764ec77e943"
+      "bytes": 199,
+      "sha256": "df8fc2ee499dfd9339336de30134c8e8d6dd50f9a6dd6672027ce072ba734ade"
     },
     {
       "path": "clips/ht02-bass-hook-04.mid",
-      "bytes": 212,
-      "sha256": "63c9ae5b21c24277159d6c350b35dc10be6f5043cefadeb03c137d2914d0b0c5"
+      "bytes": 199,
+      "sha256": "35678d3a33e671092a9259797b46b69cf76129377ba370f96bda02a14363bba7"
     },
     {
       "path": "clips/ht03-bass-hook-01.mid",
-      "bytes": 212,
-      "sha256": "e678441c37cd7f2531a361f7e9e91cd416da48b9fcfd4e124ed2ea529b98fad6"
+      "bytes": 199,
+      "sha256": "99793c75dafdb76dd084a63ab3363333e25f08c32b605c64b60df38e9bd05e50"
     },
     {
       "path": "clips/ht03-bass-hook-02.mid",
-      "bytes": 212,
-      "sha256": "ed56d9cee368c97f480c3bcde973127d6b582f49ae928da78bc644d192acd7db"
+      "bytes": 200,
+      "sha256": "df7e7bf8ef05feac056df1db9f075a604b392b5efc26898975d4191bd718358d"
     },
     {
       "path": "clips/ht03-bass-hook-03.mid",
-      "bytes": 212,
-      "sha256": "97797010d535270f3b02846772899f94f7a083e1a2cd06f0daeedaaa7eccd539"
+      "bytes": 199,
+      "sha256": "2ba25668c938b827ee5af44ec5a7bfe7adeb83db498ded8b40a12f5527ba5f10"
     },
     {
       "path": "clips/ht03-bass-hook-04.mid",
-      "bytes": 212,
-      "sha256": "5f3c22e5e61bcdf85c380a2b0329325c581b7565718b88a0f8d8cbbc32b9a360"
+      "bytes": 199,
+      "sha256": "f8eecd3df600d9c2ac8df6f89fbd295c1ecac6f8ffe129470c962f75da01ed7a"
     },
     {
       "path": "clips/ht04-bass-hook-01.mid",
-      "bytes": 212,
-      "sha256": "417f42afcd3366fc06b7924a4ed13cca05d2eeda5df0ab4d006d0501a3b57dcb"
+      "bytes": 199,
+      "sha256": "eca6ca692cbea2bea5c7c6e2ba6254805cf02b7018972857cde860dacd2eed5e"
     },
     {
       "path": "clips/ht04-bass-hook-02.mid",
-      "bytes": 212,
-      "sha256": "2ee63983757b615c052984660151257b4c8726488d8bcec7c0d5798788ede444"
+      "bytes": 200,
+      "sha256": "d0f8f531ab609dc9d607f0318e2bacc5d9d75b75bd2aeb253f338194a8cb2e01"
     },
     {
       "path": "clips/ht04-bass-hook-03.mid",
-      "bytes": 212,
-      "sha256": "65e018eea983b2acd4048d8251e5de5b9ed858edae461cd9874ea93c1a1731d8"
+      "bytes": 199,
+      "sha256": "c35ae5b4003f9c968e94784dfae84ff13437c0f8da3479a5b1c5144f4266e7f6"
     },
     {
       "path": "clips/ht04-bass-hook-04.mid",
-      "bytes": 212,
-      "sha256": "c70baf4656568442eacd9873dedb53b417de354ff3bd486261d1ca699e04bb72"
+      "bytes": 199,
+      "sha256": "ba6566beb945379df0e091dc4d783a818a59428445277df77f1a036d09d5ad82"
     },
     {
       "path": "delivery.md",
@@ -203,8 +193,8 @@
     },
     {
       "path": "downloads/house-techno-crossover-midi.zip",
-      "bytes": 29142,
-      "sha256": "49d66848de0a6d40cbd97f844b8fd002a9b892248c99066ac0d8f8cdf19e616c"
+      "bytes": 31167,
+      "sha256": "b84c692d8363b1130871a25b88e267156b03cab4a81a9de46d0163df9833e90d"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -225,11 +215,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 33257,
       "sha256": "1dad71991020ee1e44eb8ddb25d5cc6879a56847c08bc43f741cae5d10d3e9dc"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 1007319,
-      "sha256": "82a119cdc9499d0c1cdd59decca23dc0fefd0c26193d9fa7b601e006f97952f0"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -258,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9538,
-      "sha256": "d20cbb3f7dfd55210735b51ecc3eb21b950ecfe483814f68e27b6aff26f66728"
+      "bytes": 9781,
+      "sha256": "27336615aac22cb5a253d68551ca60389ce399cea86f3f3be93c6d9eb8221b8d"
     },
     {
       "path": "midi/ht01-steel-floor/chord_pulse.mid",
@@ -402,6 +387,11 @@
       "sha256": "7eb0da6aca5292cc5a6b9c7978392c96f76e85f86ba308123f5eb895e03b0654"
     },
     {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 794,
+      "sha256": "f53e8dc8a823fe6a50f3eb355bd687802262c26ea683594431ed1e7339bbc9e8"
+    },
+    {
       "path": "preview/house-techno-crossover-simple-synth-preview.mp3",
       "bytes": 1453915,
       "sha256": "8727fcdec3e1afbc60201cfb4d45db6686acbdcde2329708d9383c63cf0cf744"
@@ -410,6 +400,16 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1132,
       "sha256": "7bb494ff2565e19df2b463be5f6800993958e458deb3b3d39a4f64c9a115c950"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4048,
+      "sha256": "15a7bba1c7d3efd49a7a6461f6b0c9c66272ee9866df9a62b9a24aa39b5ace66"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 330,
+      "sha256": "b84a0d3a8d71335d54f45af43fef07b9e4563bd2917faab43119ca84c0524850"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -453,8 +453,8 @@
     },
     {
       "path": "tools/produce_clips.py",
-      "bytes": 6256,
-      "sha256": "ed4a6a81ce5e8eec7d297487103f67a69e7c9a7db0455bb0d0046d783fc7f70e"
+      "bytes": 7034,
+      "sha256": "c28af52da49b9fdc0087553c21869ea3a543adb32c9e9373d92ea838687336c7"
     },
     {
       "path": "tools/render_motion_preview.py",
