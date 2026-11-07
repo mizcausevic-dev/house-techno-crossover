@@ -193,8 +193,8 @@
     },
     {
       "path": "downloads/house-techno-crossover-midi.zip",
-      "bytes": 31167,
-      "sha256": "b84c692d8363b1130871a25b88e267156b03cab4a81a9de46d0163df9833e90d"
+      "bytes": 32154,
+      "sha256": "173806b50b250703d5b5421a7304c0011104b3ccfdec9d1b2088d90bfb1fa9fa"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -243,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9781,
-      "sha256": "27336615aac22cb5a253d68551ca60389ce399cea86f3f3be93c6d9eb8221b8d"
+      "bytes": 9971,
+      "sha256": "6b92834acba09d7ef38723da07bea97a36127b54451d81a8de2afcb6ff815df3"
     },
     {
       "path": "midi/ht01-steel-floor/chord_pulse.mid",
@@ -387,6 +387,11 @@
       "sha256": "7eb0da6aca5292cc5a6b9c7978392c96f76e85f86ba308123f5eb895e03b0654"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 794,
       "sha256": "f53e8dc8a823fe6a50f3eb355bd687802262c26ea683594431ed1e7339bbc9e8"
@@ -403,8 +408,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4048,
-      "sha256": "15a7bba1c7d3efd49a7a6461f6b0c9c66272ee9866df9a62b9a24aa39b5ace66"
+      "bytes": 4163,
+      "sha256": "b060f2cbb8a610f78276f1531eb88c18042fd767982a4d2567b6f9631b4e7114"
     },
     {
       "path": "REVISION.md",
